@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sayak Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2",
+    "socket.io": "^4.8.0",
+    "socketio": "^1.0.0"
+  }
+}
